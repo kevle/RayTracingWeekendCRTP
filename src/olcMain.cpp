@@ -249,8 +249,8 @@ public:
 int main()
 {
     RendererInstance instance(16, Vec2{ 64, 64 });
-    // if (instance.Construct(1920, 1080, 1, 1))
-    if (instance.Construct(1280, 720, 1, 1))
+    if (instance.Construct(1920, 1080, 1, 1))
+        // if (instance.Construct(1280, 720, 1, 1))
         return instance.Start() == olc::rcode::OK ? 0 : 1;
     else
         return 1;

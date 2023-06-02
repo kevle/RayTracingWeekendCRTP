@@ -54,12 +54,12 @@ struct Renderer
     World world;
 
     // High quality
-    // int num_samples = 96;
-    // int num_jumps = 50;
+    int num_samples = 96;
+    int num_jumps = 50;
     //
     // Low quality
-    int num_samples = 4;
-    int num_jumps = 20;
+    // int num_samples = 4;
+    // int num_jumps = 20;
 
     template <typename RGBSetter>
     void render(RGBSetter&& set,

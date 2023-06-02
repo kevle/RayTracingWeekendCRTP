@@ -41,13 +41,13 @@ struct Triangle
     {
     }
 
-    // Möller-Trumbore check
+    // MÃ¶ller-Trumbore check
     constexpr bool hit(const Ray& r, float t_min, float t_max, HitRecord& rec, MaterialsType& mat) const
     {
         // Vector3f min_edge = CVec::min(CVec::min(v0, v1), v2);
         // Vector3f max_edge = CVec::max(CVec::max(v0, v1), v2);
         // if (!AABB::hit(r, t_min, t_max, min_edge, max_edge))
-        //{
+        // {
         //	return false;
         // }
 
