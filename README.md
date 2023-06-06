@@ -35,12 +35,12 @@ Truth be told, not so much since most of the settings are hardcoded and only vol
 
 ##### Visualization of rendering process with the dragon from [Computer Graphics Laboratory Stanford University](http://graphics.stanford.edu/data/3Dscanrep/)
 
-https://github.com/kevle/RayTracingWeekendCRTP/assets/8260484/6d6bc55e-e43b-49ad-bbd6-db9d2e823370
+https://github.com/kevle/RayTracingWeekendCRTP/assets/8260484/77dafc11-758a-4e65-a743-16e836de750c
 
 ##### Spheres
 
-![render_compressed](https://github.com/kevle/RayTracingWeekendCRTP/assets/8260484/6b2d3f17-b262-4167-9a2d-d6b345d21b8c)
+![render_compressed](https://github.com/kevle/RayTracingWeekendCRTP/assets/8260484/16cc6f32-c3d9-477f-95b4-e3efc1eb45d6)
 
 ##### World texture
 
-![world_texture_compressed](https://github.com/kevle/RayTracingWeekendCRTP/assets/8260484/3a347de9-3bc0-4047-8442-865626acd1fa)
+![world_texture_compressed](https://github.com/kevle/RayTracingWeekendCRTP/assets/8260484/818f5d38-5aca-4580-84b2-307a581b57e6)
